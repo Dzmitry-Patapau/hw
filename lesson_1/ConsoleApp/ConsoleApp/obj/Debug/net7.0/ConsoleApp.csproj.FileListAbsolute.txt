@@ -1,0 +1,14 @@
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Programming\Приложения\repository\lesson_1\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll

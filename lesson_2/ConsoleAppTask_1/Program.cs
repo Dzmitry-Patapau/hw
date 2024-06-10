@@ -39,11 +39,4 @@
 
         }
     }
-    public class Calculate
-    {
-        public int Sum(int x)
-        {
-            return x*x;
-        }
-    }
 }

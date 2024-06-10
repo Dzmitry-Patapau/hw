@@ -1,4 +1,4 @@
-﻿namespace ConsoleAppTask2
+﻿ namespace ConsoleAppTask2
 {
     internal class Program
     {

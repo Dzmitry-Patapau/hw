@@ -1,0 +1,14 @@
+C:\Programming\Приложения\repository\lesson_3\task4\bin\Debug\net7.0\task4.exe
+C:\Programming\Приложения\repository\lesson_3\task4\bin\Debug\net7.0\task4.deps.json
+C:\Programming\Приложения\repository\lesson_3\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+C:\Programming\Приложения\repository\lesson_3\task4\bin\Debug\net7.0\task4.dll
+C:\Programming\Приложения\repository\lesson_3\task4\bin\Debug\net7.0\task4.pdb
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.dll
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\refint\task4.dll
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.pdb
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+C:\Programming\Приложения\repository\lesson_3\task4\obj\Debug\net7.0\ref\task4.dll

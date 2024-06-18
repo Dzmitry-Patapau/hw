@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Объявление переменных
+            Объявление переменных
             string fullName = "Большевиков Илья Иванович";
             int age = 20;
             string email = "ilia@test.ru";
@@ -36,7 +36,7 @@
             // Ожидание нажатия любой клавиши перед завершением
             Console.WriteLine("Нажмите любую клавишу для завершения...");
             Console.ReadKey();
-
+            1
         }
     }
 }

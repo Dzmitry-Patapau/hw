@@ -1,0 +1,15 @@
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\bin\Debug\net7.0\task_1.exe
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\bin\Debug\net7.0\task_1.deps.json
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\bin\Debug\net7.0\task_1.runtimeconfig.json
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\bin\Debug\net7.0\task_1.dll
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\bin\Debug\net7.0\task_1.pdb
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.csproj.AssemblyReference.cache
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.AssemblyInfoInputs.cache
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.AssemblyInfo.cs
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.dll
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\refint\task_1.dll
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.pdb
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
+C:\Users\Denom\YandexDisk-De-nom\lesson_8\task_1\obj\Debug\net7.0\ref\task_1.dll
